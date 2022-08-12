@@ -2,7 +2,7 @@
 // LHL - wordSearch
 // https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m02w5/activities/419?journey_step=34&workbook=8
 // pair programming exercise w. Matt Davis 2022-08-09
-/* 
+ 
 const wordSearch = (letters, word) => {
     // error check if empty inputs
     if (!letters || !word) {
@@ -31,7 +31,7 @@ const wordSearch = (letters, word) => {
   
     // still no matches, so return false
     return false;
-  }; */
+  }; 
 
 const reverseString = function (str) {
     let splitString = str.split("");
